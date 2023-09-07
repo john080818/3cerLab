@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">3cerLab</string>
     <string name="descripcionEditText">descripcion</string>
+    <string name="reporte">Reporte de movilidad</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="correo">Correo electronico</string>
+    <string name="comentario">Comentario</string>
+    <string name="enviar">Enviar Reporte</string>
 </resources>
